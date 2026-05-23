@@ -17,8 +17,6 @@ Concluído ✅
 
 ##  Aprendizados
 
-Coloque aqui o que você aprendeu fazendo esse projeto:
-
 Calculo incremental
 E formas de usar a divisao - resto (%) em python de forma eficiente
 
